@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![image](https://github.com/user-attachments/assets/31142e79-8bd1-4bb5-a990-d954bc579829)
+
+![image](https://github.com/user-attachments/assets/1cf0ef62-b51d-4969-bd7a-18b93498ee7c)
+
+### Name: MAHALAKSSHMI MRIDULA>S
+### Register Number: 212224220056
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
